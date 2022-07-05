@@ -1,0 +1,6 @@
+server.port=9999
+
+eureka.instance.hostname=localhost
+spring.application.name=apigateway
+
+

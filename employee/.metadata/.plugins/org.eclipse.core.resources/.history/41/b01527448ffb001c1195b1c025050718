@@ -1,0 +1,11 @@
+server.port=9001
+
+
+spring.application.name=employee-service
+
+eureka.instance.hostname=localhost
+
+
+spring.cloud.config.uri=http/localhost:9196
+
+spring.cloud.config.import-check.enabled=false.
